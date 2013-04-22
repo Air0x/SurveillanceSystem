@@ -6,12 +6,19 @@ Needed information for contributors:
 Packet structure:
 Client(C), Server(S).
 
+====================================
+
 [1 byte OpCode]|[?? bytes computer name in bytes]
 
 For instance:
 [0x00][0x41,0x41] C -> S. This is basicaly a Heartbeat(online-check) sent from computer AA to the server to tell it's online.
 Just one-way communication right now.
 
+Demo of website visited C -> S.
+[0x03][0x41,0x41][0x68,0x74,0x74,0x70.......]
+0x03 is the OpCode for telling the server its sending a URL/website. 
+
 22/04/2013
 *Multiple connections.
 *Client receive correctly HEATBEAT and WEBSITE OpCodes.
+
