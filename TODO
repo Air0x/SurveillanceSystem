@@ -36,6 +36,11 @@ right now it's 1024 bytes just to make sure that all the packets fit in nicely. 
 
 *GUI improvments for the server interface.
 
+*Improve the multi-socket management system on server side. Name each socket after the computer name for instance:
+Socket 1. MartinPC,
+Socket 2. AndreasPC.
+
+
 
 22/04/2013
 *Multiple connections.
