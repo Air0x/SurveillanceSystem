@@ -32,6 +32,8 @@ min and max characters the computer name can have.
 
 *Get the computer name in the client to be able to send it to the server on establishment of the connection.
 
+*Handle disconnection both on client and server-side correctly.
+
 
 22/04/2013
 *Multiple connections.
