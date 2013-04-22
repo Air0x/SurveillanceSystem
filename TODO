@@ -6,6 +6,7 @@ Needed information for contributors:
 Packet structure:
 Client(C), Server(S).
 
+DEMO:
 ====================================
 
 [1 byte OpCode]|[?? bytes computer name in bytes]
@@ -18,7 +19,22 @@ Demo of website visited C -> S.
 [0x03][0x41,0x41][0x68,0x74,0x74,0x70.......]
 0x03 is the OpCode for telling the server its sending a URL/website. 
 
+=======================================
+
+TODO:
+
+*Instead of letting the client send the heartbeat to the server let the server send to the client and wait for reply.
+So [0x00][each computer named saved in a list], if no reply the teacher get a notice on her pc.
+
+*Fix the recv buffer in the: "SkolanProjektServer / SkolanProjekt / Network_Classes / TCP_Globals.cs".
+right now its 1024 bytes just too make sure all the packets fit in nice. *JUST let the buffer get the size needed for info*
+
+*Calculate the minimum and maximum size of the computer name possible to recv,
+min and max characters the computer name can have.
+
+*Get the computer name in the client to be able to send it to the server on establishment of the connection.
+
+
 22/04/2013
 *Multiple connections.
 *Client receive correctly HEATBEAT and WEBSITE OpCodes.
-
