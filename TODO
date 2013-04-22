@@ -10,29 +10,29 @@ DEMO:
 [1 byte OpCode]|[?? bytes computer name in bytes]
 
 For instance:
-[0x00][0x41,0x41] C -> S. This is basicaly a Heartbeat(online-check) sent from computer AA to the server to tell it's online.
-Just one-way communication right now.
+[0x00][0x41,0x41] C -> S. This is basically a Heartbeat (online-check) sent from a computer AA to the server to tell it that it is online.
+The current communication model is entirely one-way
 
-Demo of website visited C -> S.
+A demo of the website that was visited C -> S
 [0x03][0x41,0x41][0x68,0x74,0x74,0x70.......]
-0x03 is the OpCode for telling the server its sending a URL/website. 
+0x03 is the OpCode that tells the server that it's sending a URL/website. 
 
 =======================================
 
 TODO:
 
-*Instead of letting the client send the heartbeat to the server let the server send to the client and wait for reply.
-So [0x00][each computer named saved in a list], if no reply the teacher get a notice on her pc.
+*Instead of having the client send the heartbeat to the server, instead the server should send it to the client and then await a reply.
+
+*[0x00][each computers name is saved in a list] If [computer name] fails to reply the supervisor gets alerted.
 
 *Fix the recv buffer in the: "SkolanProjektServer / SkolanProjekt / Network_Classes / TCP_Globals.cs".
-right now its 1024 bytes just too make sure all the packets fit in nice. *JUST let the buffer get the size needed for info*
+right now it's 1024 bytes just to make sure that all the packets fit in nicely. *Just let the buffer get the required size for storing the information*
 
-*Calculate the minimum and maximum size of the computer name possible to recv,
-min and max characters the computer name can have.
+*Calculate the max & min size possible for a computer name (The theoretically longest and shortest name, this should really be a constant!)
 
-*Get the computer name in the client to be able to send it to the server on establishment of the connection.
+*clients computer name and send it to the server upon establishing a connection.
 
-*Handle disconnection both on client and server-side correctly.
+*Handle disconnects properly both server and client side.
 
 
 22/04/2013
