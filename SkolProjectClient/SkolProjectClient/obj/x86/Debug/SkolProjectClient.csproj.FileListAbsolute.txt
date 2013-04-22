@@ -1,0 +1,11 @@
+C:\Users\Air0x\AppData\Local\Temporary Projects\SkolProjectClient\bin\Debug\SkolProjectClient.exe
+C:\Users\Air0x\AppData\Local\Temporary Projects\SkolProjectClient\bin\Debug\SkolProjectClient.pdb
+C:\Users\Air0x\AppData\Local\Temporary Projects\SkolProjectClient\obj\x86\Debug\SkolProjectClient.exe
+C:\Users\Air0x\AppData\Local\Temporary Projects\SkolProjectClient\obj\x86\Debug\SkolProjectClient.pdb
+C:\Users\Air0x\documents\visual studio 2010\Projects\SkolProjectClient\SkolProjectClient\obj\x86\Debug\SkolProjectClient.exe
+C:\Users\Air0x\documents\visual studio 2010\Projects\SkolProjectClient\SkolProjectClient\obj\x86\Debug\SkolProjectClient.pdb
+C:\Users\Air0x\documents\visual studio 2010\Projects\SkolProjectClient\SkolProjectClient\bin\Debug\SkolProjectClient.exe
+C:\Users\Air0x\documents\visual studio 2010\Projects\SkolProjectClient\SkolProjectClient\bin\Debug\SkolProjectClient.pdb
+C:\Users\Air0x\documents\visual studio 2010\Projects\SkolProjectClient\SkolProjectClient\bin\Debug\NDde.dll
+C:\Users\Air0x\documents\visual studio 2010\Projects\SkolProjectClient\SkolProjectClient\bin\Debug\NDde.xml
+C:\Users\Air0x\documents\visual studio 2010\Projects\SkolProjectClient\SkolProjectClient\obj\x86\Debug\SkolProjectClient.csprojResolveAssemblyReference.cache

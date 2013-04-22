@@ -1,0 +1,4 @@
+C:\Users\Air0x\documents\visual studio 2010\Projects\SkolProjectClient\SkolProjectClient\bin\Release\SkolProjectClient.exe
+C:\Users\Air0x\documents\visual studio 2010\Projects\SkolProjectClient\SkolProjectClient\bin\Release\SkolProjectClient.pdb
+C:\Users\Air0x\documents\visual studio 2010\Projects\SkolProjectClient\SkolProjectClient\obj\x86\Release\SkolProjectClient.exe
+C:\Users\Air0x\documents\visual studio 2010\Projects\SkolProjectClient\SkolProjectClient\obj\x86\Release\SkolProjectClient.pdb

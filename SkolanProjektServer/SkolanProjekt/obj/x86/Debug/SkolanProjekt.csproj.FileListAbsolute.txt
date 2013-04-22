@@ -1,0 +1,12 @@
+C:\Users\Air0x\AppData\Local\Temporary Projects\SkolanProjekt\obj\x86\Debug\SkolanProjekt.FrmLogin.resources
+C:\Users\Air0x\AppData\Local\Temporary Projects\SkolanProjekt\obj\x86\Debug\SkolanProjekt.Properties.Resources.resources
+C:\Users\Air0x\AppData\Local\Temporary Projects\SkolanProjekt\obj\x86\Debug\SkolanProjekt.csproj.GenerateResource.Cache
+C:\Users\Air0x\Documents\C# 2010\SkolanProjekt\SkolanProjekt\obj\x86\Debug\SkolanProjekt.FrmLogin.resources
+C:\Users\Air0x\Documents\C# 2010\SkolanProjekt\SkolanProjekt\obj\x86\Debug\SkolanProjekt.FrmMain.resources
+C:\Users\Air0x\Documents\C# 2010\SkolanProjekt\SkolanProjekt\obj\x86\Debug\SkolanProjekt.Properties.Resources.resources
+C:\Users\Air0x\Documents\C# 2010\SkolanProjekt\SkolanProjekt\obj\x86\Debug\SkolanProjekt.csproj.GenerateResource.Cache
+C:\Users\Air0x\Documents\C# 2010\SkolanProjekt\SkolanProjekt\bin\Debug\SkolanProjekt.exe
+C:\Users\Air0x\Documents\C# 2010\SkolanProjekt\SkolanProjekt\bin\Debug\SkolanProjekt.pdb
+C:\Users\Air0x\Documents\C# 2010\SkolanProjekt\SkolanProjekt\obj\x86\Debug\SkolanProjekt.exe
+C:\Users\Air0x\Documents\C# 2010\SkolanProjekt\SkolanProjekt\obj\x86\Debug\SkolanProjekt.pdb
+C:\Users\Air0x\Documents\C# 2010\SkolanProjekt\SkolanProjekt\obj\x86\Debug\SkolanProjekt.csprojResolveAssemblyReference.cache
