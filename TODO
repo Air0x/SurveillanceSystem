@@ -34,6 +34,8 @@ right now it's 1024 bytes just to make sure that all the packets fit in nicely. 
 
 *Handle disconnects properly both server and client side.
 
+*GUI improvments for the server interface.
+
 
 22/04/2013
 *Multiple connections.
